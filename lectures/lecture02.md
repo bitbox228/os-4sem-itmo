@@ -79,6 +79,9 @@ flowchart LR
     Unix --> SystemV
     Solaris --> SystemV
     BSD --> SystemV
+    BSD --> FreeBSD
+    BSD --> OpenBSD
+    BSD --> NetBSD
 ```
 В 1983 году в MIT появляется проект GNU. Идея заключается в том, чтобы создавать свободное ПО, для этого нужна свободная ОС, поэтому ее придется сделать с нуля.
 
