@@ -1,0 +1,4 @@
+3
+1920:/usr/lib/systemd/systemd --user 
+1924:(sd-pam) 
+1931:-bash 
