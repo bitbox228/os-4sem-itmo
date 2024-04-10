@@ -19,3 +19,6 @@ echo "$lines" >> res01
 # wc -l : print the newline counts
 
 # <<< : is known as here-string (pass the $lines as string in wc command)
+
+
+# info from https://explainshell.com/
