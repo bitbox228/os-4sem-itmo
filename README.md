@@ -6,6 +6,7 @@
 2. [ТЗ](labs/pdfs/OS_lab2.pdf) | [Лабораторная](labs/lab2)
 3. [ТЗ](labs/pdfs/OS_lab3.pdf) | [Лабораторная](labs/lab3)
 4. [ТЗ](labs/pdfs/OS_lab4.pdf) | [Лабораторная](labs/lab4)
+5. [ТЗ](labs/pdfs/OS_lab5.pdf) | [Лабораторная](labs/lab5)
 
 **Конспекты с лекций**
 
